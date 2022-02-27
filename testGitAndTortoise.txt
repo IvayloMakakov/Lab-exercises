@@ -2,5 +2,5 @@ Making conflicts
 
 Tortoise editing
 
-#2 conflict
+#2 conflict - github site (editing)
 
